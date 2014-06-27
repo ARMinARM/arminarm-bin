@@ -14,3 +14,8 @@ Espruino v1.65:
 
     bin: espruino_1v65_ARMinARM.bin
     src: https://github.com/ARMinARM/Espruino/tree/arminarm
+
+eLua:
+
+    bin: elua_lua_arminarm.bin
+    src: https://github.com/ARMinARM/elua
