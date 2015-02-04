@@ -22,3 +22,5 @@ eLua:
 
     bin: elua_lua_arminarm.bin
     src: https://github.com/ARMinARM/elua
+
+	upstream: https://github.com/elua/elua
