@@ -11,9 +11,13 @@ arm-none-eabi toolchain:
     v7 bin: arm-toolchain-bin-2015-02-04-raspbian.tar.gz
     src: https://github.com/ARMinARM/arm-toolchain-build-scripts
 
-Espruino v1.72:
+Espruino:
 
+    bin: espruino_1v83_ARMinARM.bin
+    bin: espruino_1v73_ARMinARM.bin
     bin: espruino_1v72_ARMinARM.bin
+    bin: espruino_1v71_ARMinARM.bin
+    bin: espruino_1v65_ARMinARM.bin
     src: https://github.com/ARMinARM/Espruino/
     
     upstream: https://github.com/espruino/Espruino
